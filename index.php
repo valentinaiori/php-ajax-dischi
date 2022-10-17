@@ -51,7 +51,7 @@ body {
 
 header{
     background-color: #2e3a46;
-    height: 150px;
+    height: 120px;
     color: white;
     text-transform: uppercase;
     display: flex;
@@ -62,6 +62,7 @@ header{
 
 main {
     background-color: #1e2d3b;
+    padding-bottom: 20px;
 }
 
 .container {
